@@ -1,5 +1,5 @@
 # Hyperblog
-Un blog increible para el curso de[ Git y Github de Platzi](http://https://github.com/itzfazzv/hyperblog/tree/main " Git y Github de Platzi")
+Un blog increible para el curso de Git y Github de Platzi Git y Github de Platzi"
 >El curso de Git y Github de Platzi es lo que me hacia falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintética con Machine Learning
 >-niñita
 
